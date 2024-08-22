@@ -1,23 +1,45 @@
 <p align="center">
 <img src="assets/banner_intro.png">
 </p>
- 
-- 🕸 Web Developer
-- <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1ee-1f1f3.svg" alt="." width="16" height="16"/> Student from India
+
+## ✨ About Me
+
+I'm a 16-year-old student from <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1ee-1f1f3.svg" alt="." width="16" height="16"/> India who’s passionate about tech and creativity! I’m a full-stack web developer and I’m really into JavaScript, though I know plenty of other programming languages too.
+
+#### 🎬 What I Enjoy
+
+When I’m not coding, I love video editing, creating motion graphics with After Effects, and working with Photoshop. I also make YouTube videos where I share my projects, tips, and tech insights.
+
+#### 💼 Commissions Open
+
+If you need help with web development, video editing, or any graphic design work, feel free to reach out. I'm open for commissions and excited to work on new projects!
+
+I'm always learning and excited to try new things!
 
 ## <p align="center">💻 My skills </p>
 
-- 🌐 Languages
+#### 🌐 Languages
 
 [![Languages](https://skillicons.dev/icons?i=html,css,js,php,python,cpp,java,kotlin,lua)](https://skillicons.dev)
 
-- 🧩 Libraries and Frameworks
+#### 🧩 Libraries and Frameworks
 
 [![Libraries and Frameworks](https://skillicons.dev/icons?i=nextjs,react,electron,laravel,express,tailwind,discordjs)](https://skillicons.dev)
 
-- ⚒ Tools
+#### ⚒ Tools
 
 [![Tools](https://skillicons.dev/icons?i=ps,pr,ae,figma,notion,blender,vscode)](https://skillicons.dev)
+
+## <p align="center">💻 My projects </p>
+
+#### Closed source
+- [📊 Minemen Tier List (MMCTL)](https://mmctierlist.com/)
+- [🔋 Unipower](https://myunipower.com/)
+- [💻 Babsoft](https://babsoft.in/)
+
+#### Open Source
+- 📗 [***antinity/selfcord***](https://github.com/antinity/selfcord) <br/>
+A multi-purpose advanced discord selfbot full of useful features.
 
 #
 

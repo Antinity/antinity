@@ -5,6 +5,16 @@
 - 🕸 Web Developer
 - <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1ee-1f1f3.svg" alt="." width="16" height="16"/> Student from India
 
+### <p align="center">💻 My skills </p>
+
+- Programming Languages
+
+[![Programming Languages](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+- Tools
+
+[![Tools](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ### <p align="center">⚙️ My development environment </p>
 
 <div class="table-devenvironment">
@@ -47,6 +57,8 @@ I love working with Linux, and I'm always exploring new things in the vast open-
 </a>
 
 ## Statistics
-![](https://komarev.com/ghpvc/?username=antinity&style=for-the-badge)
+![Antinity's profile view count](https://komarev.com/ghpvc/?username=antinity&style=for-the-badge)
+
+![Antinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=antinity&show_icons=true&theme=github_dark_dimmed&border_radius=15)
 
 ---

@@ -53,7 +53,9 @@ A multi-purpose advanced discord selfbot full of useful features.
   <img width="441" height="1">
 <img src="https://skillicons.dev/icons?i=windows" align="left">
 
-   I mostly use Windows because I was born with it.
+I mostly use Windows because I was born with it.
+   
+<br>
 
   ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
   ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
@@ -67,6 +69,8 @@ A multi-purpose advanced discord selfbot full of useful features.
 <img src="https://skillicons.dev/icons?i=linux" align="left">
 
 I love working with Linux in the vast open-source world.
+
+<br>
 
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)

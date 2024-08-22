@@ -50,7 +50,6 @@ A multi-purpose advanced discord selfbot full of useful features.
   <tr>
    
   <td valign="top" width="50%">
-  <img width="441" height="1">
 <img src="https://skillicons.dev/icons?i=windows" align="left">
 
 I mostly use Windows because I was born with it.
@@ -65,7 +64,6 @@ I mostly use Windows because I was born with it.
   </td>
 
   <td valign="top" width="50%">
-  <img width="441" height="1">
 <img src="https://skillicons.dev/icons?i=linux" align="left">
 
 I love working with Linux in the vast open-source world.

@@ -5,26 +5,33 @@
 - 🕸 Web Developer
 - <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1ee-1f1f3.svg" alt="." width="16" height="16"/> Student from India
 
-### <p align="center">💻 My skills </p>
+## <p align="center">💻 My skills </p>
 
-- Programming Languages
+- 🌐 Languages
 
-[![Programming Languages](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,php,python,cpp,java,kotlin,lua)](https://skillicons.dev)
 
-- Tools
+- 🧩 Libraries and Frameworks
 
-[![Tools](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![Libraries and Frameworks](https://skillicons.dev/icons?i=nextjs,react,electron,laravel,express,tailwind,discordjs)](https://skillicons.dev)
+
+- ⚒ Tools
+
+[![Tools](https://skillicons.dev/icons?i=ps,pr,ae,figma,notion,blender,vscode)](https://skillicons.dev)
+
+#
 
 ### <p align="center">⚙️ My development environment </p>
 
 <div class="table-devenvironment">
   <table style="font-size: 11px">
   <tr>
+   
   <td valign="top" width="50%">
+  <img width="441" height="1">
+<img src="https://skillicons.dev/icons?i=windows" align="left">
 
-#### 🖥️ Daily Windows User
-
-I mostly use Windows because I've been using it since I was born.
+   I mostly use Windows because I was born with it.
 
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
   ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
@@ -35,24 +42,32 @@ I mostly use Windows because I've been using it since I was born.
   </td>
 
   <td valign="top" width="50%">
+  <img width="441" height="1">
+<img src="https://skillicons.dev/icons?i=linux" align="left">
 
-#### 🐧 Linux Enthusiast
-
-I love working with Linux, and I'm always exploring new things in the vast open-source world.
+I love working with Linux in the vast open-source world.
 
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
   ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)
   ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
   ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+  
   </td>
-
   </tr>
   </table>
 </div>
 
-## Socials
-<a href="https://discord.com/invite/w4PAE3HkDF"  align="left">
+## Contact and Socials
+
+#### ✉ Email: antinityfx@gmail.com
+
+[![YouTube](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg)](https://youtube.com/@TheAntinity)
+[![Discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg)](https://discord.com/invite/w4PAE3HkDF)
+[![Twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter.svg)](https://x.com/antinityfx)
+[![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://www.instagram.com/antinityfx)
+ 
+<a href="https://discord.com/invite/w4PAE3HkDF">
   <img src="https://lanyard.cnrad.dev/api/255322229062107136?theme=dark&borderRadius=15px&animated=true&idleMessage=In%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)" />
 </a>
 

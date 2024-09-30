@@ -33,9 +33,9 @@ I'm always learning and excited to try new things!
 ## <p align="center">💻 My projects </p>
 
 #### Closed source
+- [💻 Ghast App](https://ghast.io/)
 - [📊 Minemen Tier List (MMCTL)](https://mmctierlist.com/)
 - [🔋 Unipower](https://myunipower.com/)
-- [💻 Babsoft](https://babsoft.in/)
 
 #### Open Source
 - 📗 [***antinity/selfcord***](https://github.com/antinity/selfcord) <br/>

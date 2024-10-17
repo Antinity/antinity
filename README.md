@@ -4,11 +4,11 @@
 
 ## ✨ About Me
 
-I'm a 16-year-old student from <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1ee-1f1f3.svg" alt="." width="16" height="16"/> India who’s passionate about tech and creativity! I’m a full-stack web developer and I’m really into JavaScript, though I know plenty of other programming languages too.
+I'm a 14-year-old student from <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1ee-1f1f3.svg" alt="." width="16" height="16"/> India! A full-stack web developer and really into JavaScript, and knows plenty of other programming languages too.
 
 #### 🎬 What I Enjoy
 
-When I’m not coding, I love video editing, creating motion graphics with After Effects, and working with Photoshop. I also make YouTube videos where I share my projects, tips, and tech insights.
+Apart from coding, I love video editing, creating motion graphics with After Effects, and working with Photoshop. I also make YouTube videos where I share my projects, tips, and tech insights. Oh can't forget, I'm a **gamer**.
 
 #### 💼 Commissions Open
 
@@ -40,7 +40,8 @@ I'm always learning and excited to try new things!
 #### Open Source
 - 📗 [***antinity/selfcord***](https://github.com/antinity/selfcord) <br/>
 A multi-purpose advanced discord selfbot full of useful features.
-
+- 📘 [***antinity/Commander***](https://github.com/antinity/commander) <br/>
+A feature rich Discord bot with a ton of utility commands.
 #
 
 ### <p align="center">⚙️ My development environment </p>

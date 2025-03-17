@@ -38,8 +38,6 @@ I'm always learning and excited to try new things!
 - [🔋 Unipower](https://myunipower.com/)
 
 #### Open Source
-- 📗 [***antinity/selfcord***](https://github.com/antinity/selfcord) <br/>
-A multi-purpose advanced discord selfbot full of useful features.
 - 📘 [***antinity/Commander***](https://github.com/antinity/commander) <br/>
 A feature rich Discord bot with a ton of utility commands.
 #

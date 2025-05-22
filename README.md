@@ -4,7 +4,7 @@
 
 ## ✨ About Me
 
-I'm a 14-year-old student from <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1ee-1f1f3.svg" alt="." width="16" height="16"/> India! A full-stack web developer and really into JavaScript, and knows plenty of other programming languages too.
+I'm a 15-year-old student from <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1ee-1f1f3.svg" alt="." width="16" height="16"/> India! A full-stack web developer and really into JavaScript, and knows plenty of other programming languages too.
 
 #### 🎬 What I Enjoy
 

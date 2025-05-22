@@ -85,10 +85,6 @@ I love working with Linux in the vast open-source world.
 [![Discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg)](https://discord.com/invite/w4PAE3HkDF)
 [![Twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter.svg)](https://x.com/antinityfx)
 [![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://www.instagram.com/antinityfx)
- 
-<a href="https://discord.com/invite/w4PAE3HkDF">
-  <img src="https://lanyard.cnrad.dev/api/255322229062107136?theme=dark&borderRadius=15px&animated=true&idleMessage=In%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)" />
-</a>
 
 ## Statistics
 ![Antinity's profile view count](https://komarev.com/ghpvc/?username=antinity&style=for-the-badge)

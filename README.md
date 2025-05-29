@@ -1,94 +1,84 @@
 <p align="center">
-<img src="assets/banner_intro.png">
+  <img src="assets/banner_intro.png" alt="antinity banner">
 </p>
 
-## ✨ About Me
-
-I'm a 15-year-old student from <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15.1/color/svg/1f1ee-1f1f3.svg" alt="." width="16" height="16"/> India! A full-stack web developer and really into JavaScript, and knows plenty of other programming languages too.
-
-#### 🎬 What I Enjoy
-
-Apart from coding, I love video editing, creating motion graphics with After Effects, and working with Photoshop. I also make YouTube videos where I share my projects, tips, and tech insights. Oh can't forget, I'm a **gamer**.
-
-#### 💼 Commissions Open
-
-If you need help with web development, video editing, or any graphic design work, feel free to reach out. I'm open for commissions and excited to work on new projects!
-
-I'm always learning and excited to try new things!
-
-## <p align="center">💻 My skills </p>
-
-#### 🌐 Languages
-
-[![Languages](https://skillicons.dev/icons?i=html,css,js,php,python,cpp,java,kotlin,lua)](https://skillicons.dev)
-
-#### 🧩 Libraries and Frameworks
-
-[![Libraries and Frameworks](https://skillicons.dev/icons?i=nextjs,react,electron,laravel,express,tailwind,discordjs)](https://skillicons.dev)
-
-#### ⚒ Tools
-
-[![Tools](https://skillicons.dev/icons?i=ps,pr,ae,figma,notion,blender,vscode)](https://skillicons.dev)
-
-## <p align="center">💻 My projects </p>
-
-#### Closed source
-- [💻 Ghast App](https://ghast.io/)
-- [📊 Minemen Tier List (MMCTL)](https://mmctierlist.com/)
-- [🔋 Unipower](https://myunipower.com/)
-
-#### Open Source
-- 📘 [***antinity/Commander***](https://github.com/antinity/commander) <br/>
-A feature rich Discord bot with a ton of utility commands.
-#
-
-### <p align="center">⚙️ My development environment </p>
-
-<div class="table-devenvironment">
-  <table style="font-size: 11px">
-  <tr>
-   
-  <td valign="top" width="50%">
-<img src="https://skillicons.dev/icons?i=windows" align="left">
-
-I mostly use Windows because I was born with it.
-   
-<br>
-
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-  ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-  ![WSL](https://img.shields.io/badge/-WSL-0D1117?style=flat&logo=windows-subsystem-for-linux&logoColor=FCC624)
-  ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-  </td>
-
-  <td valign="top" width="50%">
-<img src="https://skillicons.dev/icons?i=linux" align="left">
-
-I love working with Linux in the vast open-source world.
-
-  ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-  ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-  
-  </td>
-  </tr>
-  </table>
-</div>
-
-## Contact and Socials
-
-#### ✉ Email: antinityfx@gmail.com
-
-[![YouTube](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg)](https://youtube.com/@TheAntinity)
-[![Discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg)](https://discord.com/invite/w4PAE3HkDF)
-[![Twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter.svg)](https://x.com/antinityfx)
-[![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://www.instagram.com/antinityfx)
-
-## Statistics
-![Antinity's profile view count](https://komarev.com/ghpvc/?username=antinity&style=for-the-badge)
-
-![Antinity's GitHub stats](https://github-readme-stats.vercel.app/api?username=antinity&show_icons=true&theme=github_dark_dimmed&border_radius=15)
+<h1 align="center">I am Lakshya Kumar</h1>
+<p align="center">
+  Full-stack Web Developer · Motion Designer · Creator  
+  Based in India · Available for Freelance & Collaboration
+</p>
 
 ---
+
+## 🧠 About Me
+
+- I'm a 15-year-old developer with a strong focus on full-stack web development.  
+- Love to work in JavaScript-based technologies and build clean, scalable, and performant applications.  
+- Interested in motion graphics, video editing, and visual design.
+- Drive for perfection pushes me to deliver high-quality work with sharp attention to detail.
+- I'm quick to learn and easy to work with.
+
+---
+
+## 💼 What I Do
+
+- **Web Development** — React, Next.js, Laravel, Express, Tailwind  
+- **Creative Work** — After Effects, Photoshop, Premiere Pro, Blender  
+- **Design** — UI/UX prototyping, branding, and digital content creation  
+- **Tools I Use Daily** — VSCode, Git, Figma, Notion
+
+---
+
+## 💻 Tech Stack
+
+**Languages**  
+
+[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,php,python,cpp)](https://skillicons.dev)
+
+**Frameworks & Libraries**  
+
+[![Frameworks](https://skillicons.dev/icons?i=nextjs,react,electron,laravel,express,tailwind,discordjs)](https://skillicons.dev)
+
+**Tools**  
+
+[![Tools](https://skillicons.dev/icons?i=vscode,git,ps,pr,ae,figma,notion,blender)](https://skillicons.dev)
+
+---
+
+## 💪 Work Experience
+
+- **[Frontend Developer @ Ghast.io](https://ghast.io/)** _(Contract / Freelance)_
+  - Updated and maintained the React-based frontend for the Ghast app
+  - Implemented new features and fixed bugs to improve user experience
+  - Collaborated with the core team to deliver timely updates
+
+## 🚀 Notable Projects
+
+### 📦 Open Source
+- **[Minemen Tier Tests Website](https://github.com/antinity/mtt-web)** _(NextJS)_ - Modern, responsive web app with sleek UI, built for real-time Minecraft player tier testing and rankings.
+- **[Commander](https://github.com/antinity/commander)** - A modular, feature-rich Discord bot built with Discord.js and Javascript.
+
+### 🔒 Closed Source
+- **[Minemen Tier List Website](https://mtl.babsoft.in/)** _(PHP)_ — Legacy player ranking site with real-time stats; currently archived but hosted for reference.
+
+---
+
+## 📫 Contact
+
+Feel free to reach out if you're looking to collaborate or need help with a project.
+
+[![Email](https://img.shields.io/badge/-antinityfx@gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:antinityfx@gmail.com)  
+[![Discord](https://img.shields.io/badge/-antinity-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/w4PAE3HkDF)  
+[![X](https://img.shields.io/badge/-@antinityfx-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/antinityfx)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=antinity&style=flat-square" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antinity&show_icons=true&theme=github_dark_dimmed&border_radius=15" alt="github stats" />
+</p>

@@ -57,7 +57,7 @@
 ### 📦 Open Source
 - **[YouTube Reimagined](https://github.com/antinity/YouTube-Reimagined)** _(Browser Extension)_ - Improves YouTube user-experience by adding themes and patches.
 - **[Minemen Tier Tests Website](https://github.com/antinity/mtt-web)** _(NextJS)_ - Modern, responsive web app with sleek UI, built for real-time Minecraft player tier testing and rankings.
-- **[Commander](https://github.com/antinity/commander)** - A modular, feature-rich Discord bot built with Discord.js and Javascript.
+- **[Commander](https://github.com/antinity/commander)** _(Discord.js)_ - A modular, feature-rich Discord bot built with Discord.js and Javascript.
 
 ### 🔒 Closed Source
 - **[Minemen Tier List Website](https://mtl.babsoft.in/)** _(PHP)_ — Legacy player ranking site with real-time stats; currently archived but hosted for reference.

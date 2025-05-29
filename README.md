@@ -2,7 +2,7 @@
   <img src="assets/banner_intro.png" alt="antinity banner">
 </p>
 
-<h1 align="center">I am Lakshya Kumar</h1>
+<h1 align="center">Hi, I'm Antinity</h1>
 <p align="center">
   Full-stack Web Developer · Motion Designer · Creator  
   Based in India · Available for Freelance & Collaboration
@@ -55,6 +55,7 @@
 ## 🚀 Notable Projects
 
 ### 📦 Open Source
+- **[YouTube Reimagined](https://github.com/antinity/YouTube-Reimagined)** _(Browser Extension)_ - Improves YouTube user-experience by adding themes and patches.
 - **[Minemen Tier Tests Website](https://github.com/antinity/mtt-web)** _(NextJS)_ - Modern, responsive web app with sleek UI, built for real-time Minecraft player tier testing and rankings.
 - **[Commander](https://github.com/antinity/commander)** - A modular, feature-rich Discord bot built with Discord.js and Javascript.
 

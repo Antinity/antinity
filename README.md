@@ -57,9 +57,9 @@
 - **[Commander](https://github.com/antinity/commander)** _(Discord.js)_ - A modular, feature-rich Discord bot built with Discord.js and Javascript.
 
 ### 🔒 Closed Source  
-- **[MyUniPower](https://myunipower.com/)** _(TailwindCSS, Vanilla JS)_ — Simple product showcase site for a local shop selling batteries, UPS, inverters, etc. (client forced a brutal background lol)
 - **[Rural Advertising and Marketing](https://www.ruraladvertisingandmarketing.com/)** _(TailwindCSS, Vanilla JS)_ — Clean landing page built for a local business to boost their presence online.  
-- **[Minemen Tier List Website](https://mtl.babsoft.in/)** _(PHP)_ — Legacy player ranking site with real-time stats for Minemen; archived but still hosted for reference.  
+- **[Minemen Tier List Website](https://mtl.babsoft.in/)** _(PHP)_ — Legacy player ranking site with real-time stats for Minemen; archived but still hosted for reference.
+- **[MyUniPower](https://myunipower.com/)** _(TailwindCSS, Vanilla JS)_ — Simple product showcase site for a local shop selling batteries, UPS, inverters, etc. (client forced a brutal background lol)
 
 ---
 

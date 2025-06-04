@@ -13,19 +13,16 @@
 ## 🧠 About Me
 
 - I'm a 15-year-old developer with a strong focus on full-stack web development.  
-- Love to work in JavaScript-based technologies and build clean, scalable, and performant applications.  
+- Love to work in JavaScript-based technologies and build clean and scalable applications.  
 - Interested in motion graphics, video editing, and visual design.
-- Drive for perfection pushes me to deliver high-quality work with sharp attention to detail.
-- I'm quick to learn and easy to work with.
+- Urge for perfection pushes me to deliver high-quality work with sharp attention to detail.
 
 ---
 
 ## 💼 What I Do
 
-- **Web Development** — React, Next.js, Laravel, Express, Tailwind  
-- **Creative Work** — After Effects, Photoshop, Premiere Pro, Blender  
-- **Design** — UI/UX prototyping, branding, and digital content creation  
-- **Tools I Use Daily** — VSCode, Git, Figma, Notion
+- **Web Development** — React, Next.js, Laravel, Express, Tailwind, Discord.js  
+- **Design** — UI/UX design, GFX design (logos, banners, etc.), YouTube thumbnail design, etc.  
 
 ---
 
@@ -59,8 +56,10 @@
 - **[Minemen Tier Tests Website](https://github.com/antinity/mtt-web)** _(NextJS)_ - Modern, responsive web app with sleek UI, built for real-time Minecraft player tier testing and rankings.
 - **[Commander](https://github.com/antinity/commander)** _(Discord.js)_ - A modular, feature-rich Discord bot built with Discord.js and Javascript.
 
-### 🔒 Closed Source
-- **[Minemen Tier List Website](https://mtl.babsoft.in/)** _(PHP)_ — Legacy player ranking site with real-time stats; currently archived but hosted for reference.
+### 🔒 Closed Source  
+- **[MyUniPower](https://myunipower.com/)** _(TailwindCSS, Vanilla JS)_ — Simple product showcase site for a local shop selling batteries, UPS, inverters, etc. (client forced a brutal background lol)
+- **[Rural Advertising and Marketing](https://www.ruraladvertisingandmarketing.com/)** _(TailwindCSS, Vanilla JS)_ — Clean landing page built for a local business to boost their presence online.  
+- **[Minemen Tier List Website](https://mtl.babsoft.in/)** _(PHP)_ — Legacy player ranking site with real-time stats for Minemen; archived but still hosted for reference.  
 
 ---
 

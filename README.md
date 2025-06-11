@@ -2,27 +2,12 @@
   <img src="assets/banner_intro.png" alt="antinity banner">
 </p>
 
-<h1 align="center">Hi, I'm Antinity</h1>
-<p align="center">
-  Full-stack Web Developer · Motion Designer · Creator  
-  Based in India · Available for Freelance & Collaboration
-</p>
-
----
-
-## 🧠 About Me
-
-- I'm a 15-year-old developer with a strong focus on full-stack web development.  
-- Love to work in JavaScript-based technologies and build clean and scalable applications.  
-- Interested in motion graphics, video editing, and visual design.
-- Urge for perfection pushes me to deliver high-quality work with sharp attention to detail.
-
----
-
-## 💼 What I Do
-
-- **Web Development** — React, Next.js, Laravel, Express, Tailwind, Discord.js  
-- **Design** — UI/UX design, GFX design (logos, banners, etc.), YouTube thumbnail design, etc.  
+## I'm Lakshya Kumar 
+📍 15-year-old developer based in India  
+📚 Studying in Class 11 (CBSE Senior Secondary Education)  
+💼 Working as a web developer since 2020  
+💻 I love to mess w/ JavaScript & build clean, scalable websites & apps  
+🎞️ Also into motion graphics, video editing & visual design  
 
 ---
 

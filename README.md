@@ -37,6 +37,7 @@
 ## 🚀 Notable Projects
 
 ### 📦 Open Source
+- **[Nexora Visuals Website](https://github.com/antinity/nexoravisuals-web)** _(React)_ - A sleek and minimalistic landing page for the video editing agency Nexora Visuals. 
 - **[YouTube Reimagined](https://github.com/antinity/YouTube-Reimagined)** _(Browser Extension)_ - Improves YouTube user-experience by adding themes and patches.
 - **[Minemen Tier Tests Website](https://github.com/antinity/mtt-web)** _(NextJS)_ - Modern, responsive web app with sleek UI, built for real-time Minecraft player tier testing and rankings.
 - **[Commander](https://github.com/antinity/commander)** _(Discord.js)_ - A modular, feature-rich Discord bot built with Discord.js and Javascript.

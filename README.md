@@ -15,7 +15,7 @@
 
 **Languages**  
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,php,python,cpp)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,php,python,cpp)](https://skillicons.dev)
 
 **Frameworks & Libraries**  
 

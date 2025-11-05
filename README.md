@@ -11,7 +11,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Stack
 
 **Languages**  
 
@@ -27,14 +27,14 @@
 
 ---
 
-## 💪 Work Experience
+## 💪 Experience
 
 - **[Frontend Developer @ Ghast.io](https://ghast.io/)** _(Contract / Freelance)_
   - Updated and maintained the React-based frontend for the Ghast app
   - Implemented new features and fixed bugs to improve user experience
   - Collaborated with the core team to deliver timely updates
 
-## 🚀 Notable Projects
+## 🚀 Work
 
 ### 📦 Open Source
 - **[Nexora Visuals Website](https://github.com/antinity/nexoravisuals-web)** _(React)_ - A sleek and minimalistic landing page for the video editing agency Nexora Visuals. 
@@ -51,11 +51,11 @@
 
 ## 📫 Contact
 
-Feel free to reach out if you're looking to collaborate or need help with a project.
+Use the options listed below to reach out. It can over 24 hours for me to respond.
 
 [![Email](https://img.shields.io/badge/-antinityfx@gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:antinityfx@gmail.com)  
-[![Discord](https://img.shields.io/badge/-antinity-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/w4PAE3HkDF)  
 [![X](https://img.shields.io/badge/-@antinityfx-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/antinityfx)
+[![Discord](https://img.shields.io/badge/-antinity-5865F2?style=flat-square&logo=discord&logoColor=white&color=black)](https://discord.com/invite/w4PAE3HkDF)  
 
 ---
 

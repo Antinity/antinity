@@ -5,7 +5,7 @@
 ### I’m Lakshya
 
 15 year-old dev from India, high school student.  
-I am obsessed with eye-candy visuals of clean-code and  and perfection.
+I am obsessed with eye-candy visuals, clean-code and perfection.
 
 ---
 

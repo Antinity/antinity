@@ -41,7 +41,7 @@ I am obsessed with eye-candy visuals, clean-code and perfection.
 📊 **Minemen Tier Tests** _(NextJS)_ [🔗](https://github.com/antinity/mtt-web)  
 → Real time Minecraft players tier-based leaderboard.
 
-🤖 **Commander** _(Discord.js)_ [🔗](https://github.com/antinity/commander)
+🤖 **Commander** _(Discord.js)_ [🔗](https://github.com/antinity/commander)  
 → Modular Discord bot with a load of features packed in.
 
 #### 🔒 Closed Source  

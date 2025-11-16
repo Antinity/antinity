@@ -2,69 +2,67 @@
   <img src="assets/banner_intro.png" alt="antinity banner">
 </p>
 
-## I'm Lakshya Kumar 
-📍 15-year-old developer based in India  
-📚 Studying in Class 11 (CBSE Senior Secondary Education)  
-💼 Working as a web developer since 2020  
-💻 I love to mess w/ JavaScript & build clean, scalable websites & apps  
-🎞️ Also into motion graphics, video editing & visual design  
+### I’m Lakshya
+
+15 year-old dev from India, high school student.  
+I am obsessed with eye-candy visuals of clean-code and  and perfection.
 
 ---
 
-## 💻 Stack
+### 🛠 Tech Stack  
 
-**Languages**  
+#### Languages
+  
+[![Languages](https://skillicons.dev/icons?i=js,ts,python,php)](https://skillicons.dev)
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,php,python,cpp)](https://skillicons.dev)
-
-**Frameworks & Libraries**  
-
-[![Frameworks](https://skillicons.dev/icons?i=nextjs,react,electron,laravel,express,tailwind,discordjs)](https://skillicons.dev)
-
-**Tools**  
-
-[![Tools](https://skillicons.dev/icons?i=vscode,git,ps,pr,ae,figma,notion,blender)](https://skillicons.dev)
+#### Frameworks & Libraries
+  
+[![Frameworks](https://skillicons.dev/icons?i=nextjs,react,electron,express,tailwind,discordjs)](https://skillicons.dev)
 
 ---
 
-## 💪 Experience
+### 💪 Experience  
 
-- **[Frontend Developer @ Ghast.io](https://ghast.io/)** _(Contract / Freelance)_
-  - Updated and maintained the React-based frontend for the Ghast app
-  - Implemented new features and fixed bugs to improve user experience
-  - Collaborated with the core team to deliver timely updates
-
-## 🚀 Work
-
-### 📦 Open Source
-- **[Nexora Visuals Website](https://github.com/antinity/nexoravisuals-web)** _(React)_ - A sleek and minimalistic landing page for the video editing agency Nexora Visuals. 
-- **[YouTube Reimagined](https://github.com/antinity/YouTube-Reimagined)** _(Browser Extension)_ - Improves YouTube user-experience by adding themes and patches.
-- **[Minemen Tier Tests Website](https://github.com/antinity/mtt-web)** _(NextJS)_ - Modern, responsive web app with sleek UI, built for real-time Minecraft player tier testing and rankings.
-- **[Commander](https://github.com/antinity/commander)** _(Discord.js)_ - A modular, feature-rich Discord bot built with Discord.js and Javascript.
-
-### 🔒 Closed Source  
-- **[Rural Advertising and Marketing](https://www.ruraladvertisingandmarketing.com/)** _(TailwindCSS, Vanilla JS)_ — Clean landing page built for a local business to boost their presence online.  
-- **[Minemen Tier List Website](https://mtl.babsoft.in/)** _(PHP)_ — Legacy player ranking site with real-time stats for Minemen; archived but still hosted for reference.
-- **[MyUniPower](https://myunipower.com/)** _(TailwindCSS, Vanilla JS)_ — Simple product showcase site for a local shop selling batteries, UPS, inverters, etc. (client forced a brutal background lol)
+- **Frontend Developer @ Ghast.io**  
+  Handled the React frontend, rolled out new features, fixed bugs, and kept the product stable.
 
 ---
 
-## 📫 Contact
+### 🚀 Work
 
-Use the options listed below to reach out. It can over 24 hours for me to respond.
+#### 📦 Open Source  
+  
+▶️ **YouTube Reimagined** _(Extension)_  [🔗](https://github.com/antinity/YouTube-Reimagined)  
+→ Themes, patches, QoL tweaks for YouTube
 
-[![Email](https://img.shields.io/badge/-antinityfx@gmail.com-black?style=flat-square&logo=gmail&logoColor=white)](mailto:antinityfx@gmail.com)  
-[![X](https://img.shields.io/badge/-@antinityfx-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/antinityfx)
-[![Discord](https://img.shields.io/badge/-antinity-5865F2?style=flat-square&logo=discord&logoColor=white&color=black)](https://discord.com/invite/w4PAE3HkDF)  
+🎥 **Nexora Visuals Website** _(React)_ [🔗](https://github.com/antinity/nexoravisuals-web)  
+→ Landing page for video editing agency.
+
+📊 **Minemen Tier Tests** _(NextJS)_ [🔗](https://github.com/antinity/mtt-web)  
+→ Real time Minecraft players tier-based leaderboard.
+
+🤖 **Commander** _(Discord.js)_ [🔗](https://github.com/antinity/commander)
+→ Modular Discord bot with a load of features packed in.
+
+#### 🔒 Closed Source  
+  
+📈 **Rural Advertising & Marketing** _(Tailwind, JS)_  
+→ Simple landing page for marketing business.
+
+📊 **Minemen Tier List (Legacy)** _(PHP)_  
+→ Old ranking site still running for nostalgia.
+
+🏪 **MyUniPower** _(Tailwind, JS)_  
+→ Product showcase for a local shop (the bg wasn’t my idea).
 
 ---
 
-## 📊 GitHub Stats
+### 🤝 Contact  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=antinity&style=flat-square" alt="profile views" />
-</p>
+[![Email](https://img.shields.io/badge/-antinityfx@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:antinityfx@gmail.com)  
+[![X](https://img.shields.io/badge/-@antinityfx-black?style=flat-square&logo=x&logoColor=white)](https://x.com/antinityfx)
+[![Discord](https://img.shields.io/badge/-antinity-5865f2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/w4PAE3HkDF)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antinity&show_icons=true&theme=github_dark_dimmed&border_radius=15" alt="github stats" />
-</p>
+---
+
+<img src="https://komarev.com/ghpvc/?username=antinity&style=flat-square" alt="profile views" />

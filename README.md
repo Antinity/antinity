@@ -7,8 +7,6 @@ Full stack developer, focused on high quality UX and eye-candy designs.
 
 ## Currently Building
 
-- **[WhatNow](https://whatnow-web.vercel.app)** - Career guidance platform helping students make better decisions at different stages of life.
-- **[Proklok](https://proklok.vercel.app/)** - Complete AI-first all-in-one tool for landlords to manage their properties like rentals, PGs, hostels, flats.
 - **[YouTube Reimagined](https://github.com/Antinity/youtube-reimagined)** - A customizable YouTube enhancement extension with community-made plugins and themes that make YouTube less annoying and way more powerful.
 
 ## Things I’ve Shipped
